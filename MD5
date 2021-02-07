@@ -1,0 +1,10 @@
+9546697aaf49765921e5dcdf888ffcca *DESCRIPTION
+96c633bae08b030c8c9baa9143c10793 *NAMESPACE
+264f8ec939ccd714af149f6d3b5f5074 *R/cronologia.R
+bf05c07ec959517629f4f71775ecab4e *README.md
+eb9e12d895be7e7c91ed8a4a94e213a0 *inst/cronologia/cronologia.css
+374a18ceb205b3ca3be989209adb1a16 *man/create_tml.Rd
+b65a86078dd09ccc18b9cb54c5aa6fa3 *man/create_tml_2.Rd
+911be63d3cc2c4325109f992cddc5590 *man/create_tml_img.Rd
+8090201b6b5c15d60b3ead45401524bc *tests/testthat.R
+5f6ffa7cf7a21b9e2b0ba81dd90de363 *tests/testthat/test-cronologia.R
