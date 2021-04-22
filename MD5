@@ -1,8 +1,10 @@
-9546697aaf49765921e5dcdf888ffcca *DESCRIPTION
+fd913931f956cc0f2d2f378580938737 *DESCRIPTION
 96c633bae08b030c8c9baa9143c10793 *NAMESPACE
-264f8ec939ccd714af149f6d3b5f5074 *R/cronologia.R
-bf05c07ec959517629f4f71775ecab4e *README.md
-eb9e12d895be7e7c91ed8a4a94e213a0 *inst/cronologia/cronologia.css
+996d659f4319410be2cd6d05b5e0503a *NEWS.md
+ce18d2ae05735160819de9d8d01149f6 *R/cronologia.R
+f4e9187ba2f3ad1c1016575e152b524b *README.md
+e47f8a809926d77fb6c5a205a2262e00 *inst/cronologia/cronologia.css
+7af7c1f891295c9f0b254faf357ff93c *inst/cronologia/cronologia.min.css
 374a18ceb205b3ca3be989209adb1a16 *man/create_tml.Rd
 b65a86078dd09ccc18b9cb54c5aa6fa3 *man/create_tml_2.Rd
 911be63d3cc2c4325109f992cddc5590 *man/create_tml_img.Rd
